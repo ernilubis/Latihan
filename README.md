@@ -1,2 +1,2 @@
 # Latihan
-Repositori untuk menyiman Latihan
+Repository untuk menyiman Latihan
